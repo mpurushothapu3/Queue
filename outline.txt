@@ -1,0 +1,12 @@
+Goal:
+Make a service to allow people to establish and handle queues
+Make a queue for each group of administrators that has the option of having a custom id
+For users - allow people to add their name to a specified queue with an id, track position, take name off at any time
+For administrators - allow option to clear queue, delete - find way to auto delete, handle people coming off queue, maybe see history?
+
+To do:
+
+Make a way to share a link to a queue to users
+Make only original creator able to delete queue?
+Store session in browser - relatively low priority
+Enable users to be served with different administrators
